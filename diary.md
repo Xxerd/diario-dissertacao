@@ -1,5 +1,15 @@
 # Diary of the Dissertation: Orchestration, Aggregation and Monitoring of Federated Workflows
 
+## Week 10: 16/11/2026 to 22/11/2026
+- Did sprint 3 presentation
+- Finalized the implementation of the mock coordinator API
+
+## Week 9: 09/11/2026 to 15/11/2026
+- Slow week, continued to implement the mock coordinator API
+
+## Week 8: 02/11/2026 to 08/11/2026
+- Started to implement the mock coordinator API
+
 ## Week 7: 26/10/2026 to 01/11/2026
 - Did sprint 2 [presentation](https://docs.google.com/presentation/d/1kEBvRnciVWVhzxIMGvvIRKQiJxn5bps9wy3AGAZDH18/edit?slide=id.s2b_slide#slide=id.s2b_slide)
 - Reviewd a paper related to the biochef app of one of the members of the research group.
